@@ -4,7 +4,7 @@ title: "Style your app intents"
 date: 2023-08-29 08:00:00 +0200
 categories: ios17 intent appIntents shortcuts
 image: /assets/img/styledIntent-1024.png
-published: true
+published: false
 ---
 
 Starting in iOS 17 you can tint your app intents. The documentation from Apple is a bit vague on this, so here's how it's done.
