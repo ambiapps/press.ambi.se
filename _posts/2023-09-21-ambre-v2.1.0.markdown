@@ -1,0 +1,135 @@
+---
+layout: post
+title: "Ambre v2.1.0"
+date: 2023-09-21 08:00:00 +0200
+categories: ambre
+published: true
+---
+
+#### Fact sheet
+
+###### Developer
+
+Ambi Studio
+
+###### Platforms
+
+- iOS 17+
+- iPadOS 17+
+- watchOS 10+
+- tvOS 17+
+- macOS 14+
+
+###### Price (USD)
+
+- Family plan, $2.99 / month
+- Individual plan, $1.99 / month
+- Yearly family plan, $39.99 / year
+
+###### App Store
+
+[App Store Link](https://apps.apple.com/app/apple-store/id1102236212?pt=60123802&ct=press&mt=8)
+
+#### What's new
+
+*Ambre v2.1.0 is a minor update that adds Timers, Interactive Widgets, Hand-off Support & Desktop Widgets to Ambre for macOS.*
+
+Ambre v2.0.0 is an update to __iOS__, __iPadOS__, __watchOS__ and __tvOS__. At the beginning of June we attended WWDC at Apple Park and have been developing for the new update since, trying to make the most of all the new APIs. This update adds these new features:
+
+- __Timer detection__
+  - Supports multiple languages, detected with on device intelligence
+- __Interactive widgets__
+  - Jump between instructions and start your timers with a single tap straight from the Dynamic Island, Live Activity and Widgets on both you Home and Lock Screen.
+- __Cooking recipes__
+  - Marks recipes as Cooking once interacted with. The progress syncs across devices and gets pinned to the top for easier access. 
+- __WatchOS 10 redesign__
+  - The watchOS app has been completely redesigned to better utilize everything that the new WatchOS 10 design brings.
+- __Handoff support__
+  - Open the same recipe on your other device where handoff is supported.
+- __Improved web/url import__
+  - We were already proud of presenting one of the best, if not THE best, import functionality. Now it’s even better! 
+- __New Subscribe view__
+  - To ensure an even smoother subscription flow we’re now using the brand new [`SubscriptionStoreView`](https://developer.apple.com/documentation/storekit/subscriptionstoreview) from Apple.
+
+#### About the app
+
+Ambre is a recipe app for the Apple Enthusiast that enjoys cooking. With the latest technologies provided by Apple, we take the cooking experience to the next level. Ambre is available on all Apple devices that can run 3rd party apps.
+
+Your recipes and their progress are synced across all your devices using iCloud. Thanks to Core Data, all your recipes are available offline. Once a recipe is Cooking it can be interacted with using Siri, making sure you can follow the recipe even with sticky fingers. If you have a HomePod in your kitchen, you can ask Siri for instructions on what to do next.
+
+Privacy is a core value at Ambi Studio, so none of our apps have any kind of tracking added. The only analytics we have access to is the ones that have been forwarded and anonymized by Apple.
+
+#### The team
+
+Ambi Studio consists of Sofia Larsson, César Pinto Castillo and their dog Ellie (official title: Mood manager). Sofia is a textile engineer with an eye for design and started coding roughly 3 years ago. César has made apps for the Apple platform since 2010 and also does freelancing.
+
+They are located in Oxelösund, a small city an hour south of Stockholm, Sweden.
+
+###### Contact information
+
+- Sofia Larsson
+  - [Profile image](https://avatars.githubusercontent.com/u/36075450)
+  - sofia@ambi.se
+  - [https://x.com/fosiaDesign](https://x.com/fosiaDesign)
+  - [https://mastodon.social/@fosiaDesign](https://mastodon.social/@fosiaDesign)
+- César Pinto Castillo
+  - [Profile image](https://avatars.githubusercontent.com/u/923548)
+  - cesar@ambi.se
+  - [https://x.com/jagcesar](https://x.com/jagcesar)
+  - [https://mastodon.social/@jagcesar](https://mastodon.social/@jagcesar)
+
+#### Images
+
+###### Promotional
+
+[![Stand by mode]({{site.url}}/assets/img/press/ambre/v2/standby.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/standby.png)
+[![Watch OS 10]({{site.url}}/assets/img/press/ambre/v2/watchOS10Redesign.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/watchOS10Redesign.png)
+[![Interactive Widgets]({{site.url}}/assets/img/press/ambre/v2/InteractiveWidgets.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/InteractiveWidgets.png)
+[![Desktop Widgets]({{site.url}}/assets/img/press/ambre/v2/macOS.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/macOS.png)
+
+###### iPhone
+
+[![Live Activity]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivity.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivity.png)
+[![Live activities]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivities.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivities.png)
+[![Live activities expanded]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivitiesExpanded.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsLiveActivitiesExpanded.png)
+[![Dynamic Island]({{site.url}}/assets/img/press/ambre/v2/iOsDynamicIsland.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsDynamicIsland.png)
+[![Dynamic Island Stacked]({{site.url}}/assets/img/press/ambre/v2/iOsStackedDynamicIsland.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsStackedDynamicIsland.png)
+[![Recipes]({{site.url}}/assets/img/press/ambre/v2/iOsRecipes.png){: width="16%" }]({{site.url}}/assets/img/press/ambre/v2/iOsRecipes.png)
+[![Recipes landscape]({{site.url}}/assets/img/press/ambre/v2/iOSRecipesLandscape.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/iOSRecipesLandscape.png)
+[![Stand By Widgets]({{site.url}}/assets/img/press/ambre/v2/iOsStandByWidgets.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/iOsStandByWidgets.png)
+[![Stand By Live Activity Widget]({{site.url}}/assets/img/press/ambre/v2/iOsStandByLiveActivity.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/iOsStandByLiveActivity.png)
+
+###### iPad
+
+[![Live Activity]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivity.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivity.png)
+[![Live Activities]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivities.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivities.png)
+[![Live Activities Expanded]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivitiesExpanded.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/iPadLiveActivitiesExpanded.png)
+[![Recipes]({{site.url}}/assets/img/press/ambre/v2/iPadRecipes.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/iPadRecipes.png)
+
+###### Apple Watch
+
+[![Stack widget]({{site.url}}/assets/img/press/ambre/v2/watchOsStackWidget.png){: width="19%" }]({{site.url}}/assets/img/press/ambre/v2/watchOsStackWidget.png)
+[![Recipes]({{site.url}}/assets/img/press/ambre/v2/watchOsRecipes.png){: width="19%" }]({{site.url}}/assets/img/press/ambre/v2/watchOsRecipes.png)
+[![Recipe]({{site.url}}/assets/img/press/ambre/v2/watchOsRecipe.png){: width="19%" }]({{site.url}}/assets/img/press/ambre/v2/watchOsRecipe.png)
+[![Ingredients]({{site.url}}/assets/img/press/ambre/v2/watchOsIngredients.png){: width="19%" }]({{site.url}}/assets/img/press/ambre/v2/watchOsIngredients.png)
+[![Instruction]({{site.url}}/assets/img/press/ambre/v2/watchOsInstruction.png){: width="19%" }]({{site.url}}/assets/img/press/ambre/v2/watchOsInstruction.png)
+
+###### Apple TV
+
+[![Recipes]({{site.url}}/assets/img/press/ambre/v2/tvOsRecipes.png){: width="50%" }]({{site.url}}/assets/img/press/ambre/v2/tvOsRecipes.png)
+
+##### Mac
+
+[![Recipes]({{site.url}}/assets/img/press/ambre/v2/macOsRecipes.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/macOsRecipes.png)
+[![Meal Plan]({{site.url}}/assets/img/press/ambre/v2/macOsMealPlan.png){: width="49%" }]({{site.url}}/assets/img/press/ambre/v2/macOsMealPlan.png)
+
+###### Icon
+
+[![Icon]({{site.url}}/assets/img/press/ambre/v2/iconFull.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/iconFull.png)
+[![Icon rounded with shadow]({{site.url}}/assets/img/press/ambre/v2/iconRoundedShadow.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/iconRoundedShadow.png)
+[![Apple TV icon]({{site.url}}/assets/img/press/ambre/v2/tvOsIcon.png){: width="32%" }]({{site.url}}/assets/img/press/ambre/v2/tvOsIcon.png)
+
+#### All assets as ZIP
+
+[Download here]({{site.url}}/assets/img/press/ambre/v2/ambre2.zip)
+
